@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Analytics Pro",
+  "description": "A production-ready TikTok analysis dashboard for developers and creators. Provides AI-powered insights, engagement tracking, and qualitative analysis of both profiles and videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
